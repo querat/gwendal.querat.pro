@@ -1,8 +1,9 @@
 #header {
-    background-color:   #587291;
-    padding-top:            3vh;
-    padding-bottom:         3vh;
-    padding-left:           5vh;
-    padding-right:          5vh;
+    margin-top:         40px;
+    border-radius:      2px;
+    width: 100vw;
+}
 
+.color2 {
+    background-color:   #587291;
 }
