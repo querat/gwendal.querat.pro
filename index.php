@@ -61,7 +61,7 @@
                             <br/>
                             <i>Dublin, Ireland</i>
                             <br/>
-                            2018-2019
+                            2017-2018
                             <br/>
                             Computer Science Study Abroad Year during Epitech Studies
                         </div>
@@ -192,12 +192,16 @@
                         </div>
                         <div class="content middle aligned">
                             <span class="title cv-title">Gen-IP Solutions</span>
+                            <br>
+                            <span class="internship-subject-text">
+                                Implementation of an Administration Interface for call Centers
+                            </span>
                             <br/>
                             <span><i>Le Rheu, France</i></span>
                             <br/>
                             <span>June-November 2015</span>
                             <br/>
-                            <span></span>
+                            <span>JavaScript, PHP, MySQL, ExtJS</span>
                             <br>
                             <span></span>
                         </div>

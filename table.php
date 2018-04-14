@@ -1,6 +1,7 @@
 <?php
 
-function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars){
+function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
+{
 
     echo "
     <tr style='border: none'>
@@ -30,16 +31,16 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars){
 }
 
 ?>
-<table class="ui unstackable very basic collapsing table celled padded table">
+<table class="ui unstackable basic collapsing table celled padded table">
 
     <tbody>
-
     <?php
     makeStarredTr("res/sudo.png", "Linux & Sysadmin", 5);
     makeStarredTr("res/cpp.png", "C/C++", 4);
     makeStarredTr("res/py.png", "Python", 4);
     makeStarredTr("res/webStack.png", "Frontend", 3);
     makeStarredTr("res/thatOneLanguage.jpg", "Java", 2);
+    makeStarredTr("res/sql.png", "MySQL", 2);
     ?>
     </tbody>
 </table>
