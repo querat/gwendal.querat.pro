@@ -31,7 +31,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
 }
 
 ?>
-<table class="ui unstackable basic collapsing table celled padded table">
+<table class="ui centered unstackable basic table celled padded table">
 
     <tbody>
     <?php

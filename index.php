@@ -41,11 +41,11 @@
 </header>
 
 <div class="ui container">
-    <h1 class="header">About</h1>
+    <h1 class="ui header centered">About</h1>
     <p>Blah blah blah</p>
     <hr/>
 
-    <h1 class="title">Formation</h1>
+    <h1 class="ui header centered">Formation</h1>
 
     <div class="ui container">
         <div class="ui card full-width">
@@ -124,14 +124,14 @@
     </div>
 
     <div class="ui container" style="overflow:auto">
-        <h1 class="header">Skills</h1>
+        <h1 class="ui header centered">Skills</h1>
         <?php include("table.php"); ?>
     </div>
 
     <hr>
 
     <div class="ui container">
-        <h1>Professional Experience</h1>
+        <h1 class="ui header centered">Professional Experience</h1>
         <div class="ui card full-width">
             <div class="content">
                 <div class="ui items">
@@ -211,16 +211,15 @@
         </div>
     </div>
 
-
     <hr>
-    <h1>School projects</h1>
+    <h1 class="ui header centered">School projects</h1>
     <hr>
-    <h1 class="title">Personal Projects</h1>
+    <h1 class="ui header centered">Personal Projects</h1>
 
 
     <div class="ui container">
         <hr>
-        <h1 class="title">Hobbies</h1>
+        <h1 class="ui header centered">Hobbies</h1>
         <p>
             You can do anything your heart can imagine. You can create anything that makes you happy. We have a
             fantastic
