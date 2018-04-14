@@ -120,10 +120,10 @@
                 </div>
             </div>
         </div>
+        <hr/>
     </div>
 
     <div class="ui container" style="overflow:auto">
-        <hr/>
         <h1 class="header">Skills</h1>
         <?php include("table.php"); ?>
     </div>
