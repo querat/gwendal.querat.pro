@@ -35,3 +35,9 @@ hr {
     min-width: 100%;
     max-width: 100%;
 }
+
+.internship-subject-text {
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 32px;
+}

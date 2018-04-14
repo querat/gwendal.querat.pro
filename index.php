@@ -9,6 +9,11 @@
     <link rel="stylesheet" href="style/cv.css">
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/semantic.min.js"></script>
+    <!-- Needed by stars-rating table -->
+    <script type="text/javascript">$(document).ready(function () {
+            $(".rating").rating();
+        });
+    </script>
 </head>
 <body>
 
@@ -16,7 +21,7 @@
     <div class="ui container">
         <a href="#" class="header item">
             <!--<img class="logo" src="res/images/logo.png"/>-->
-            Gwendal QUERAT
+            Gwendal QUÉRAT
         </a>
     </div>
 </div>
@@ -120,15 +125,7 @@
     <div class="ui container">
         <hr/>
         <h1 class="header">Skills</h1>
-        <p>We spend so much of our life looking - but never seeing. This is gonna be a happy little seascape. You
-            can do
-            anything your heart can imagine. If you've been in Alaska less than a year you're a Cheechako.</p>
-        <p>So often we avoid running water, and running water is a lot of fun. I really believe that if you practice
-            enough you could paint the 'Mona Lisa' with a two-inch brush. How do you make a round circle with a
-            square
-            knife? That's your challenge for the day. The light is your friend. Preserve it. This is the way you
-            take
-            out your flustrations. This is a happy place, little squirrels live here and play.</p>
+        <?php include("table.html"); ?>
     </div>
 
     <hr>
@@ -145,14 +142,15 @@
                         <div class="content middle aligned">
                             <span class="title cv-title">ContentArmor</span>
                             <br/>
+                            <span class="internship-subject-text">Visualization Tool For a Video Watermarking System</span>
+                            <br>
                             <span><i>Rennes, France</i></span>
                             <br/>
                             April-August 2017
                             <br/>
-                            <span></span>
-                            <br>
-                            <span></span>
+                            <span>Python, wxPython, C++, FFmpeg</span>
                         </div>
+                        "
                     </div>
                 </div>
             </div>
@@ -167,7 +165,11 @@
                         </div>
                         <div class="content middle aligned">
                             <span class="title cv-title">Viaccess-Orca</span>
-                            <br/>
+                            <br>
+                            <span class="internship-subject-text">
+                                Implementation of an automated testing solution for the Android platform
+                            </span>
+                            <br>
                             <span><i>Cesson-Sévigné, France</i></span>
                             <br/>
                             <span>Part-Time contract 2 days a week, September-December 2016</span>
@@ -206,32 +208,11 @@
     </div>
 
 
-    <div class="ui container">
-        <hr>
-        <h1 class="title">Personal Projects</h1>
-        <p>
-            When you do it your way you can go anywhere you choose. Just take out whatever you don't want. It'll
-            change
-            your entire perspective. It's almost like something out of a fairytale book. We have no limits to our
-            world.
-            We're only limited by our imagination. This is your creation - and it's just as unique and special as
-            you
-            are.
-        </p>
-        <p>
-            Let's have a happy little tree in here. That is when you can experience true joy, when you have no fear.
-            Absolutely no pressure. You are just a whisper floating across a mountain. It's cold, but it's
-            beautiful.
-        </p>
+    <hr>
+    <h1>School projects</h1>
+    <hr>
+    <h1 class="title">Personal Projects</h1>
 
-        <p>
-            We'll take a little bit of Van Dyke Brown. Just pretend you are a whisper floating across a mountain.
-            It's a
-            good way of getting rid of all your anxieties and hostilities. Fluff it up a little and hypnotize it.
-            There
-            we go. Let that brush dance around there and play.
-        </p>
-    </div>
 
     <div class="ui container">
         <hr>
