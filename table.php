@@ -7,7 +7,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars){
         <td>
             <h4 class=\"ui image header\">
                 <img src=\"$pathToIcon\" class=\"ui tiny rounded image\">
-                    ".$nameOfLanguage."
+                    $nameOfLanguage
             </h4>
         </td>    
     ";
@@ -35,9 +35,11 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars){
     <tbody>
 
     <?php
+    makeStarredTr("res/sudo.png", "Linux & Sysadmin", 5);
     makeStarredTr("res/cpp.png", "C/C++", 4);
     makeStarredTr("res/py.png", "Python", 4);
-
+    makeStarredTr("res/webStack.png", "Frontend", 3);
+    makeStarredTr("res/thatOneLanguage.jpg", "Java", 2);
     ?>
     </tbody>
 </table>
