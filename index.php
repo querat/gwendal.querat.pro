@@ -150,7 +150,6 @@
                             <br/>
                             <span>Python, wxPython, C++, FFmpeg</span>
                         </div>
-                        "
                     </div>
                 </div>
             </div>
