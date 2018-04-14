@@ -1,6 +1,12 @@
-#header {
+header {
     margin-top:         40px;
-    width: 100vw;
+    width:              100vw;
+    padding:            32px;
+    margin-bottom:      32px;
+}
+
+body {
+    font-size: 1.3rem;
 }
 
 .color2 {
