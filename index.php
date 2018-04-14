@@ -125,7 +125,7 @@
     <div class="ui container">
         <hr/>
         <h1 class="header">Skills</h1>
-        <?php include("table.html"); ?>
+        <?php include("table.php"); ?>
     </div>
 
     <hr>

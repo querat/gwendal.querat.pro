@@ -41,3 +41,12 @@ hr {
     font-size: 1.2rem;
     line-height: 32px;
 }
+
+.td-noborder {
+    border:none !important;
+}
+
+.my-star {
+    width: 48px;
+    height: 48px;
+}
