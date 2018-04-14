@@ -1,0 +1,9 @@
+# JetBrains IDE
+/.idea
+
+# Emacs
+*~
+*#*
+
+# unzipped semanticUI on my pc
+/Semantic-UI-CSS-master
