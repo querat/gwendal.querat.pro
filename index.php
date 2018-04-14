@@ -3,7 +3,7 @@
 <head>
     <title>Gwendal</title>
     <meta charset="UTF-8"/>
-    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name=viewport content="width=device-width, maximal-scale=1, initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="stylesheet" href="style/semantic.min.css">
     <link rel="stylesheet" href="style/cv.css">
@@ -22,7 +22,6 @@
 </div>
 
 <header class="ui container color2">
-    <div class="ui item">
         <div class="ui grid middle aligned color2 white-text">
             <div class="column eight wide center aligned">
                 <h1 class="title">Gwendal QUERAT</h1>
@@ -34,7 +33,6 @@
                 <img class="ui left aligned image circular" src="res/gwen.png"/>
             </div>
         </div>
-    </div>
 </header>
 
 <div class="ui container">
