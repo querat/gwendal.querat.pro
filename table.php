@@ -5,7 +5,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars){
     echo "
     <tr style='border: none'>
         <td>
-            <h4 class=\"ui image header\">
+            <h4 class=\"ui header\">
                 <img src=\"$pathToIcon\" class=\"ui tiny rounded image\">
                     $nameOfLanguage
             </h4>
@@ -19,7 +19,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars){
 
         echo "
         <td class=\"td-noborder\">
-            <img class=\"my-star\" src=\"$starFilePath\">
+            <img class=\"my-star image tiny\" src=\"$starFilePath\">
         </td>
         ";
         $starsPrinted++;
