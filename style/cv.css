@@ -1,6 +1,6 @@
 header {
     margin-top:         40px;
-    width:              100vw;
+    width:              100vw !important;
     padding:            32px;
     margin-bottom:      32px;
 }
