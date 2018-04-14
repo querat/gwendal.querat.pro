@@ -122,7 +122,7 @@
         </div>
     </div>
 
-    <div class="ui container">
+    <div class="ui container" style="overflow: auto; overflow-x: auto; overflow-y: auto;">
         <hr/>
         <h1 class="header">Skills</h1>
         <?php include("table.php"); ?>
