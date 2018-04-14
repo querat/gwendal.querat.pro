@@ -22,17 +22,17 @@
 </div>
 
 <header class="ui container color2">
-        <div class="ui grid middle aligned color2 white-text">
-            <div class="column eight wide center aligned">
-                <h1 class="title">Gwendal QUERAT</h1>
-                <h3 class="title">Software Developer</h3>
-                <!--<div class="ui container left aligned">-->
-                <!--</div>-->
-            </div>
-            <div class="column eight wide>">
-                <img class="ui left aligned image circular" src="res/gwen.png"/>
-            </div>
+    <div class="ui grid middle aligned color2 white-text">
+        <div class="column eight wide center aligned">
+            <h1 class="title">Gwendal QUERAT</h1>
+            <h3 class="title">Software Developer</h3>
+            <!--<div class="ui container left aligned">-->
+            <!--</div>-->
         </div>
+        <div class="column eight wide>">
+            <img class="ui left aligned image circular" src="res/gwen.png"/>
+        </div>
+    </div>
 </header>
 
 <div class="ui container">
@@ -43,14 +43,45 @@
 </div>
 
 <div class="ui container">
+    <div class="ui card " style="max-width: 100%; min-width: 100%;">
+        <div class="content">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ui tiny image">
+                        <img src="res/epitech.png" height="48px">
+                    </div>
+                    <div class="content" style="padding: 1rem;">
+                        <div class="header">Epitech</div>
+                        <span class="cv-title">Epitech</span>
+                        <span><i>&nbsp-&nbspParis Graduate School of Digital Innovation</i></span>
+                        <br/>
+                        <i>Paris, France</i>
+                        <br/>
+                        2014-2019
+                        <br/>
+                        Graduate Diploma in Information Technology
 
-    <div class="ui two column grid text">
+                        <div class="description">
+                            <p></p>
+                        </div>
+                        <div class="extra">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="ui container">
+
+    <div class="ui two column grid  text">
         <div class="column">
             <h1 class="title">Formation</h1>
             <div class="ui container">
                 <div class="ui grid">
                     <div class="row">
-                        <div class="image three wide column">
+                        <div class="image three wide column middle aligned">
                             <img src="res/epitech.png" class="image" height="64"/>
                         </div>
                         <div class="twelve wide column">
@@ -147,7 +178,8 @@
         <hr>
         <h1 class="title">Hobbies</h1>
         <p>
-            You can do anything your heart can imagine. You can create anything that makes you happy. We have a fantastic
+            You can do anything your heart can imagine. You can create anything that makes you happy. We have a
+            fantastic
             little sky!
         </p>
 
@@ -164,13 +196,15 @@
         </p>
 
         <p>
-            It looks so good, I might as well not stop. Nothing's gonna make your husband or wife madder than coming home
+            It looks so good, I might as well not stop. Nothing's gonna make your husband or wife madder than coming
+            home
             and having a snow-covered dinner. Just use the old one inch brush. Here we're limited by the time we
             have.
         </p>
 
         <p>
-            I want everbody to be happy. That's what it's all about. Isn't that fantastic that you can create an almighty
+            I want everbody to be happy. That's what it's all about. Isn't that fantastic that you can create an
+            almighty
             tree that fast? That's the way I look when I get home late; black and blue.
         </p>
 
