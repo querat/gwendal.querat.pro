@@ -30,7 +30,7 @@
             <!--</div>-->
         </div>
         <div class="column eight wide>">
-            <img class="ui left aligned image circular" src="res/gwen.png"/>
+            <img class="ui image circular left aligned" src="res/gwen.png"/>
         </div>
     </div>
 </header>
@@ -39,14 +39,35 @@
     <h1 class="header">About</h1>
     <p>Blah blah blah</p>
     <hr/>
-</div>
-
-<div class="ui container">
 
     <h1 class="title">Formation</h1>
 
     <div class="ui container">
-        <div class="ui card " style="max-width: 100%; min-width: 100%;">
+        <div class="ui card full-width">
+            <div class="content">
+                <div class="ui items">
+                    <div class="item">
+                        <div class="ui tiny image">
+                            <img src="res/dcu.jpeg" class="image tiny">
+                        </div>
+                        <div class="content" style="padding: 1rem;">
+                            <div class="header">Dublin City University</div>
+                            <span><i>&nbsp-&nbspStudy Abroad Program (one year)</i></span>
+                            <br/>
+                            <i>Dublin, Ireland</i>
+                            <br/>
+                            2018-2019
+                            <br/>
+                            Computer Science Study Abroad Year during Epitech Studies
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="my-margin"></div>
+
+        <div class="ui card full-width">
             <div class="content">
                 <div class="ui items">
                     <div class="item">
@@ -55,7 +76,6 @@
                         </div>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Epitech</div>
-                            <span class="cv-title">Epitech</span>
                             <span><i>&nbsp-&nbspParis Graduate School of Digital Innovation</i></span>
                             <br/>
                             <i>Paris, France</i>
@@ -71,7 +91,7 @@
 
         <div class="my-margin"></div>
 
-        <div class="ui card " style="max-width: 100%; min-width: 100%;">
+        <div class="ui card full-width">
             <div class="content">
                 <div class="ui items middle aligned">
                     <div class="item middle">
@@ -115,7 +135,7 @@
 
     <div class="ui container">
         <h1>Professional Experience</h1>
-        <div class="ui card" style="max-width: 100%; min-width: 100%;">
+        <div class="ui card full-width">
             <div class="content">
                 <div class="ui items">
                     <div class="item">
@@ -128,6 +148,52 @@
                             <span><i>Rennes, France</i></span>
                             <br/>
                             April-August 2017
+                            <br/>
+                            <span></span>
+                            <br>
+                            <span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="my-margin"></div>
+        <div class="ui card full-width">
+            <div class="content">
+                <div class="ui items">
+                    <div class="item">
+                        <div class="ui tiny image">
+                            <img src="res/Viaccess-Orca.jpg" class="image tiny">
+                        </div>
+                        <div class="content middle aligned">
+                            <span class="title cv-title">Viaccess-Orca</span>
+                            <br/>
+                            <span><i>Cesson-Sévigné, France</i></span>
+                            <br/>
+                            <span>Part-Time contract 2 days a week, September-December 2016</span>
+                            <br/>
+                            <span></span>
+                            <br>
+                            <span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="my-margin"></div>
+        <div class="ui card full-width">
+            <div class="content">
+                <div class="ui items">
+                    <div class="item">
+                        <div class="ui tiny image">
+                            <img src="res/genip.jpg" class="image tiny">
+                        </div>
+                        <div class="content middle aligned">
+                            <span class="title cv-title">Gen-IP Solutions</span>
+                            <br/>
+                            <span><i>Le Rheu, France</i></span>
+                            <br/>
+                            <span>June-November 2015</span>
                             <br/>
                             <span></span>
                             <br>

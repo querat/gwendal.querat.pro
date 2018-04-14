@@ -30,3 +30,8 @@ hr {
 .color2 {
     background-color:   #587291;
 }
+
+.full-width {
+    min-width: 100%;
+    max-width: 100%;
+}
