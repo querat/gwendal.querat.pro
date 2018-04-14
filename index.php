@@ -37,54 +37,24 @@
 
 <div class="ui container">
     <h1 class="header">About</h1>
-    <p>My favorite town is Jerusalem because Sunseille told me so</p>
-
+    <p>Blah blah blah</p>
     <hr/>
 </div>
 
 <div class="ui container">
-    <div class="ui card " style="max-width: 100%; min-width: 100%;">
-        <div class="content">
-            <div class="ui items">
-                <div class="item">
-                    <div class="ui tiny image">
-                        <img src="res/epitech.png" height="48px">
-                    </div>
-                    <div class="content" style="padding: 1rem;">
-                        <div class="header">Epitech</div>
-                        <span class="cv-title">Epitech</span>
-                        <span><i>&nbsp-&nbspParis Graduate School of Digital Innovation</i></span>
-                        <br/>
-                        <i>Paris, France</i>
-                        <br/>
-                        2014-2019
-                        <br/>
-                        Graduate Diploma in Information Technology
 
-                        <div class="description">
-                            <p></p>
-                        </div>
-                        <div class="extra">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+    <h1 class="title">Formation</h1>
 
-<div class="ui container">
-
-    <div class="ui two column grid  text">
-        <div class="column">
-            <h1 class="title">Formation</h1>
-            <div class="ui container">
-                <div class="ui grid">
-                    <div class="row">
-                        <div class="image three wide column middle aligned">
-                            <img src="res/epitech.png" class="image" height="64"/>
+    <div class="ui container">
+        <div class="ui card " style="max-width: 100%; min-width: 100%;">
+            <div class="content">
+                <div class="ui items">
+                    <div class="item">
+                        <div class="ui tiny image">
+                            <img src="res/epitech.png" height="48px">
                         </div>
-                        <div class="twelve wide column">
+                        <div class="content" style="padding: 1rem;">
+                            <div class="header">Epitech</div>
                             <span class="cv-title">Epitech</span>
                             <span><i>&nbsp-&nbspParis Graduate School of Digital Innovation</i></span>
                             <br/>
@@ -95,12 +65,21 @@
                             Graduate Diploma in Information Technology
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
 
-                    <div class="row">
-                        <div class="image three wide column middle aligned">
-                            <img src="res/ste-therese.jpg" class="image" height="48"/>
+        <div class="my-margin"></div>
+
+        <div class="ui card " style="max-width: 100%; min-width: 100%;">
+            <div class="content">
+                <div class="ui items middle aligned">
+                    <div class="item middle">
+                        <div class="ui tiny image">
+                            <br>
+                            <img src="res/ste-therese.jpg" height="48px">
                         </div>
-                        <div class="twelve wide column">
+                        <div class="content" style="padding: 1rem;">
                             <span class="title cv-title">Sainte Thérèse High School</span>
                             <span><i>&nbsp-&nbsp Catering school</i></span>
                             <br/>
@@ -111,19 +90,15 @@
                             <span>BEP & BAC Pro - Hotels and Catering Professions</span>
                             <br>
                             <span>Complementary Mention Restaurant Desserts Cook</span>
-                            <br>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-
     </div>
 
-    <hr/>
-
     <div class="ui container">
+        <hr/>
         <h1 class="header">Skills</h1>
         <p>We spend so much of our life looking - but never seeing. This is gonna be a happy little seascape. You
             can do
@@ -140,25 +115,41 @@
 
     <div class="ui container">
         <h1>Professional Experience</h1>
-        <div class="ui grid">
-            <div class="row">
-                <div class="column two wide">
-                    <img class="image" src="res/ca.png" alt="ContentArmor" height="64px"/>
-                </div>
-                <div class="column fourteen wide">
-                    <div class="cv-title">ContentArmor</div>
+        <div class="ui card" style="max-width: 100%; min-width: 100%;">
+            <div class="content">
+                <div class="ui items">
+                    <div class="item">
+                        <div class="ui tiny image">
+                            <img src="res/ca.png" class="image tiny">
+                        </div>
+                        <div class="content middle aligned">
+                            <span class="title cv-title">ContentArmor</span>
+                            <br/>
+                            <span><i>Rennes, France</i></span>
+                            <br/>
+                            April-August 2017
+                            <br/>
+                            <span></span>
+                            <br>
+                            <span></span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 
+
     <div class="ui container">
         <hr>
         <h1 class="title">Personal Projects</h1>
         <p>
-            When you do it your way you can go anywhere you choose. Just take out whatever you don't want. It'll change
-            your entire perspective. It's almost like something out of a fairytale book. We have no limits to our world.
-            We're only limited by our imagination. This is your creation - and it's just as unique and special as you
+            When you do it your way you can go anywhere you choose. Just take out whatever you don't want. It'll
+            change
+            your entire perspective. It's almost like something out of a fairytale book. We have no limits to our
+            world.
+            We're only limited by our imagination. This is your creation - and it's just as unique and special as
+            you
             are.
         </p>
         <p>
@@ -168,8 +159,10 @@
         </p>
 
         <p>
-            We'll take a little bit of Van Dyke Brown. Just pretend you are a whisper floating across a mountain. It's a
-            good way of getting rid of all your anxieties and hostilities. Fluff it up a little and hypnotize it. There
+            We'll take a little bit of Van Dyke Brown. Just pretend you are a whisper floating across a mountain.
+            It's a
+            good way of getting rid of all your anxieties and hostilities. Fluff it up a little and hypnotize it.
+            There
             we go. Let that brush dance around there and play.
         </p>
     </div>
@@ -184,14 +177,17 @@
         </p>
 
         <p>
-            You want your tree to have some character. Make it special. Water's like me. It's laaazy ... Boy, it always
-            looks for the easiest way to do things Trees grow in all kinds of ways. They're not all perfectly straight.
+            You want your tree to have some character. Make it special. Water's like me. It's laaazy ... Boy, it
+            always
+            looks for the easiest way to do things Trees grow in all kinds of ways. They're not all perfectly
+            straight.
             Not every limb is perfect.
         </p>
 
         <p>
             Take your time. Speed will come later. Be careful. You can always add more - but you can't take it away.
-            There is immense joy in just watching - watching all the little creatures in nature. As trees get older they
+            There is immense joy in just watching - watching all the little creatures in nature. As trees get older
+            they
             lose their chlorophyll.
         </p>
 
