@@ -6,7 +6,20 @@ header {
 }
 
 body {
-    font-size: 1.3rem;
+    /*font-size:          1.3rem;*/
+}
+
+hr {
+    margin:             48px;
+}
+
+.cv-title {
+    font-weight:        bold;
+    font-size:          1.3rem;
+}
+
+.white-text {
+    color:              white;
 }
 
 .color2 {
