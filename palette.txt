@@ -1,0 +1,6 @@
+# Palette of colors used for the website
+00cab7
+587291
+395e66
+574ae2
+222a68
