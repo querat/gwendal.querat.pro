@@ -317,5 +317,8 @@
     </div>
 
 </div>
+<div class="ui container" style="min-width: 100vw">
+    <img src="res/serval.png" class="ui image small floated right aligned">
+</div>
 </body>
 </html>
