@@ -229,7 +229,6 @@
                             <br/>
                             <span>JavaScript, PHP, MySQL, ExtJS</span>
                             <br>
-                            <span></span>
                         </div>
                     </div>
                 </div>
@@ -301,13 +300,15 @@
 
     <div class="ui container">
         <hr>
-        <h1 class="ui header centered">Hobbies</h1>
+        <h1 class="ui header centered">Hobbies & Interests</h1>
         <div class="paragraph-text">
             <p>
-                As said in the <a href="#about">About</a> section, I like to cook pastries and desserts. A
+                As said in the <a href="#about">About</a> section, I like to cook pastries and desserts. I also like
+                to help my parents grow their own fruits and vegetables in their garden.
+                My Desserts are way better when they
+                are made with healthy and tasty local products !
+                I also like to go running/swimming once or twice a week to stay fit and healthy.
             </p>
-            <p></p>
-            <p></p>
         </div>
     </div>
 

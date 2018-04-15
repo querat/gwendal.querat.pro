@@ -43,6 +43,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
     makeStarredTr("res/webStack.png", "Frontend", 3);
     makeStarredTr("res/thatOneLanguage.jpg", "Java", 2);
     makeStarredTr("res/sql.png", "MySQL", 2);
+    makeStarredTr("res/uk.jpg", "English", 4);
     ?>
     </tbody>
 </table>
