@@ -42,7 +42,7 @@
 
 <div class="ui container">
     <h1 class="ui header centered">About</h1>
-    <p>Blah blah blah</p>
+    <p>I am a 27 years developer </p>
     <hr/>
 
     <h1 class="ui header centered">Formation</h1>
@@ -260,6 +260,7 @@
                             <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
+                    <hr>
                     <div class="content middle aligned">
                         <span class="title cv-title">This website</span>
                         <br>
