@@ -41,7 +41,7 @@
 </header>
 
 <div class="ui container">
-    <h1 class="ui header centered">About</h1>
+    <h1 id="about" class="ui header centered">About</h1>
     <div class="paragraph-text">
         <p>
             I am a 27 years developer currently studying Computer Science for one year at Dublin City University.
@@ -302,40 +302,13 @@
     <div class="ui container">
         <hr>
         <h1 class="ui header centered">Hobbies</h1>
-        <p>
-            You can do anything your heart can imagine. You can create anything that makes you happy. We have a
-            fantastic
-            little sky!
-        </p>
-
-        <p>
-            You want your tree to have some character. Make it special. Water's like me. It's laaazy ... Boy, it
-            always
-            looks for the easiest way to do things Trees grow in all kinds of ways. They're not all perfectly
-            straight.
-            Not every limb is perfect.
-        </p>
-
-        <p>
-            Take your time. Speed will come later. Be careful. You can always add more - but you can't take it away.
-            There is immense joy in just watching - watching all the little creatures in nature. As trees get older
-            they
-            lose their chlorophyll.
-        </p>
-
-        <p>
-            It looks so good, I might as well not stop. Nothing's gonna make your husband or wife madder than coming
-            home
-            and having a snow-covered dinner. Just use the old one inch brush. Here we're limited by the time we
-            have.
-        </p>
-
-        <p>
-            I want everbody to be happy. That's what it's all about. Isn't that fantastic that you can create an
-            almighty
-            tree that fast? That's the way I look when I get home late; black and blue.
-        </p>
-
+        <div class="paragraph-text">
+            <p>
+                As said in the <a href="#about">About</a> section, I like to cook pastries and desserts. A
+            </p>
+            <p></p>
+            <p></p>
+        </div>
     </div>
 
     <div class="ui container">
