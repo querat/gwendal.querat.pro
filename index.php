@@ -212,7 +212,7 @@
                     <div class="item">
                         <div class="ui tiny image">
                             <a href="https://www.gen-ip.fr/Accueil" target="_blank">
-                                <img src="res/genip.jpg" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                                <img src="res/genip.jpg" class="ui image tiny" onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
                         <hr>
@@ -235,10 +235,69 @@
             </div>
         </div>
     </div>
+    <div class="my-margin"></div>
+    <div class="ui card full-width">
+        <div class="content">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ui tiny image">
+                        <a href="#">
+                            <img src="res/fork.png" class="ui image tiny" onmouseover="$(this).transition('jiggle')">
+                        </a>
+                    </div>
+                    <hr>
+                    <div class="content middle aligned">
+                        <span class="title cv-title">Catering</span> (2006-2014)
+                        <br>
+                        <span class="">
+                            <br>Employment - Restaurant                 <span class="internship-subject-text">La Tratt'</span>, (Loudéac, France)
+                            <br>Employment - Hotel/Restaurant/SPA*****  <span class="internship-subject-text">L’Agapa</span>, (Perros-Guirec, France)
+                            <br>Internship - Hotel/Restaurant****       <span class="internship-subject-text">L’Auberge des Templiers</span>, (Boismorand, France)
+                            <br>Internship - Hotel/Restaurant****       <span class="internship-subject-text">L’Écrin</span> , (Plancoët, France)
+                            <br>Internship - Hotel/Restaurant****       <span class="internship-subject-text">Domaine de Rochevilaine</span>, Billiers (Morbihan)
+                            <br>Internship - Hotel/Restaurant***        <span class="internship-subject-text">Ar Milin’</span>, Châteaubourg (Ille-et-Vilaine)
+                            <br>Internship - Hotel/Restaurant**         <span class="internship-subject-text">Ibis, Quiberon</span> (Morbihan)
+                            <br>Internship - Hotel/Restaurant           <span class="internship-subject-text">Castel j’Huly</span>, Châteaubourg (Ille-et-Vilaine)
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- !Professional Experience -->
 
     <hr>
     <h1 class="ui header centered">School projects</h1>
+    <div class="ui card full-width">
+        <div class="content">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ui tiny image">
+                        <a>
+                            <img src="res/nasm.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                        </a>
+                    </div>
+                    <hr>
+                    <div class="content middle aligned">
+                        <span class="title cv-title">CoreWar</span>
+                        <br>
+                        <span class="internship-subject-text">
+                            assembly code compiler & virtual machine able to run assembled programs.
+                        </span>
+                        <br>
+                        <span>
+                            The goal of this game is to write an assembly program that will be the last to execute a
+                            specific 'live' instruction.
+                        </span>
+                        <br>
+                        <span><i>C++, CMake, SFML, SDL to come</i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- !card -->
+    <div class="my-margin"></div>
 
     <hr>
     <h1 class="ui header centered">Personal Projects</h1>
@@ -309,16 +368,31 @@
                 are made with healthy and tasty local products !
                 I also like to go running/swimming once or twice a week to stay fit and healthy.
             </p>
+            <p>
+                On the books side, my favorite author is Terry Pratchett for their hilarious Discworld novels.
+                I also enjoy reading SciFi sometimes, be it recent or old
+                (Isaac Asimov and Jules Vernes would make good examples).
+            </p>
+            <p>
+                While I am not doing this very often, I enjoy getting my hands dirty by delving into my computer's
+                case to fix or improve it. I built it myself back in 2013 and found this to be a fun learning
+                experience.
+            </p>
+            <p>
+
+            </p>
         </div>
     </div>
 
-    <div class="ui container">
-        <hr>
-    </div>
-
+<!--    <div class="ui container">-->
+<!--        <hr>-->
+<!--    </div>-->
 </div>
+<div style="margin-bottom: 128px"></div>
+
 <div class="ui container" style="min-width: 100vw">
     <img src="res/serval.png" class="ui image small floated right aligned">
+    <img src="res/construction.png" class="ui image small floated aligned right">
 </div>
 </body>
 </html>
