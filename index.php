@@ -42,7 +42,21 @@
 
 <div class="ui container">
     <h1 class="ui header centered">About</h1>
-    <p>I am a 27 years developer </p>
+    <div class="paragraph-text">
+        <p>
+            I am a 27 years developer currently studying Computer Science for one year at Dublin City University.
+            This year is part of my five years long <i>Epitech</i> studies, ending in 2019. During my studies,
+            I had the opportunity to work as an intern in three different enterprises, which gave me flexibility and
+            professional experience. I worked as a pastry cook before I decided to make a job of my other passion, Software Development.
+            I still love to cook delicious meals and desserts for my friends, my family and my coworkers.
+        </p>
+        <p>
+            I am most experienced in C, C++, Python and Linux environments, but my professional background and
+            experience allow me to quickly adapt to new technologies. I can also make use of web technologies,
+            from frontend (HTML, SemanticUI) to backend (Server System Administration, DNS, Nginx).
+        </p>
+
+    </div>
     <hr/>
 
     <h1 class="ui header centered">Formation</h1>
@@ -251,7 +265,7 @@
                             and are able to run very fast by reducing cache misses.
                         </span>
                         <br>
-                        <span><i>C++</i></span>
+                        <span><i>C++, CMake, SFML, SDL to come</i></span>
                     </div>
                 </div>
             </div>
@@ -277,7 +291,7 @@
                         <br>
                         <span>Running on a Debian VPS</span>
                         <br>
-                        <span><i>HTML, CSS, JavaScript, PHP, SemanticUI</i></span>
+                        <span><i>HTML, CSS, JavaScript, PHP, SemanticUI, Nginx</i></span>
                     </div>
                 </div>
             </div>

@@ -44,11 +44,17 @@ hr {
 
 .td-noborder {
     /*border:none !important;*/
-    border-right: none !important;
-    border-left: none !important;
+    border-right:       none !important;
+    border-left:        none !important;
 }
 
 .my-star {
-    width: 48px;
-    height: 48px;
+    width:              48px;
+    height:             48px;
+}
+
+.paragraph-text {
+    text-indent:        5rem;
+    font-size:          1.4rem;
+    text-align:         justify;
 }
