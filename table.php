@@ -1,5 +1,7 @@
 <?php
 
+// I don't like php but this is still better than copy pasting each table row ...'
+
 function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
 {
 

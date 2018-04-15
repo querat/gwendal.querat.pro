@@ -37,9 +37,9 @@ hr {
 }
 
 .internship-subject-text {
-    font-weight: bold;
-    font-size: 1.2rem;
-    line-height: 32px;
+    font-weight:        bold;
+    font-size:          1.10rem;
+    line-height:        1.10rem;
 }
 
 .td-noborder {
