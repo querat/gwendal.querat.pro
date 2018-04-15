@@ -291,7 +291,35 @@
                             specific 'live' instruction.
                         </span>
                         <br>
-                        <span><i>C++, CMake, SFML, SDL to come</i></span>
+                        <span><i>C, Assembly, Make</i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- !card -->
+    <div class="my-margin"></div>
+    <div class="ui card full-width">
+        <div class="content">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ui tiny image">
+                        <a href="https://github.com/querat/ca115">
+                            <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                        </a>
+                    </div>
+                    <hr>
+                    <div class="content middle aligned">
+                        <span class="title cv-title">Website - Made for a DCU course</span>
+                        <br>
+                        <span class="internship-subject-text">
+                            This <a href="http://homebox.querat.pro/">simple website</a> was built without any framework.
+                        </span>
+                        <br>
+                        <span>
+                            It is sadly not responsive, unlike my own website.
+                        </span>
+                        <br>
+                        <span><i>HTML, CSS, JavaScript</i></span>
                     </div>
                 </div>
             </div>
