@@ -53,7 +53,7 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img src="res/dcu.jpeg" class="image tiny">
+                            <img src="res/dcu.jpeg" class="image tiny" onmouseover="$(this).transition('jiggle');">
                         </div>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Dublin City University</div>
@@ -77,7 +77,7 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img src="res/epitech.png" height="48px">
+                            <img src="res/epitech.png" height="48px" onmouseover="$(this).transition('jiggle');">
                         </div>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Epitech</div>
@@ -102,7 +102,7 @@
                     <div class="item middle">
                         <div class="ui tiny image">
                             <br>
-                            <img src="res/ste-therese.jpg" height="48px">
+                            <img class="image" src="res/ste-therese.jpg" height="48px" onmouseover="$(this).transition('jiggle')">
                         </div>
                         <div class="content" style="padding: 1rem;">
                             <span class="title cv-title">Sainte Thérèse High School</span>
@@ -130,17 +130,20 @@
 
     <hr>
 
+    <!-- Professional Experience -->
     <div class="ui container">
         <h1 class="ui header centered">Professional Experience</h1>
         <div class="ui card full-width">
             <div class="content">
                 <div class="ui items">
                     <div class="item">
-                        <div class="ui tiny image">
-                            <img src="res/ca.png" class="image tiny">
+                        <div class="ui tiny image" onmouseover="this.transition('jiggle');">
+                            <a href="http://contentarmor.net" target="_blank">
+                                <img src="res/ca.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            </a>
                         </div>
                         <div class="content middle aligned">
-                            <span class="title cv-title">ContentArmor</span>
+                            <span class="header cv-title">ContentArmor</span>
                             <br/>
                             <span class="internship-subject-text">Visualization Tool For a Video Watermarking System</span>
                             <br>
@@ -160,7 +163,10 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img src="res/Viaccess-Orca.jpg" class="image tiny">
+                            <a href="https://www.viaccess-orca.com/" target="_blank">
+                                <img src="res/Viaccess-Orca.jpg" class="image tiny"
+                                     onmouseover="$(this).transition('jiggle')">
+                            </a>
                         </div>
                         <div class="content middle aligned">
                             <span class="title cv-title">Viaccess-Orca</span>
@@ -173,9 +179,6 @@
                             <br/>
                             <span>Part-Time contract 2 days a week, September-December 2016</span>
                             <br/>
-                            <span></span>
-                            <br>
-                            <span></span>
                         </div>
                     </div>
                 </div>
@@ -187,7 +190,9 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img src="res/genip.jpg" class="image tiny">
+                            <a href="https://www.gen-ip.fr/Accueil" target="_blank">
+                                <img src="res/genip.jpg" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            </a>
                         </div>
                         <div class="content middle aligned">
                             <span class="title cv-title">Gen-IP Solutions</span>
@@ -209,11 +214,41 @@
             </div>
         </div>
     </div>
+    <!-- !Professional Experience -->
 
     <hr>
     <h1 class="ui header centered">School projects</h1>
+
     <hr>
     <h1 class="ui header centered">Personal Projects</h1>
+    <div class="ui card full-width">
+        <div class="content">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ui tiny image">
+                        <a href="https://github.com/querat/ecsGame">
+                            <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                        </a>
+                    </div>
+                    <div class="content middle aligned">
+                        <span class="title cv-title">Entity Component System engine based game</span>
+                        <br>
+                        <span class="internship-subject-text">
+                            I am learning to use <a href="https://github.com/skypjack/entt">Entt</a>
+                            with multiple graphic libraries (using interfaces for abstraction).
+                        </span>
+                        <br>
+                        <span>
+                            ECS engines are data oriented, reduce the coupling of components
+                            and are able to run very fast by reducing cache misses.
+                        </span>
+                        <br>
+                        <span><i>C++</i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- !card -->
 
 
     <div class="ui container">
