@@ -55,6 +55,7 @@
                         <div class="ui tiny image">
                             <img src="res/dcu.jpeg" class="image tiny" onmouseover="$(this).transition('jiggle');">
                         </div>
+                        <hr>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Dublin City University</div>
                             <span><i>&nbsp-&nbspStudy Abroad Program (one year)</i></span>
@@ -79,6 +80,7 @@
                         <div class="ui tiny image">
                             <img src="res/epitech.png" height="48px" onmouseover="$(this).transition('jiggle');">
                         </div>
+                        <hr>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Epitech</div>
                             <span><i>&nbsp-&nbspParis Graduate School of Digital Innovation</i></span>
@@ -105,6 +107,7 @@
                             <img class="image" src="res/ste-therese.jpg" height="48px"
                                  onmouseover="$(this).transition('jiggle')">
                         </div>
+                        <hr>
                         <div class="content" style="padding: 1rem;">
                             <span class="title cv-title">Sainte Thérèse High School</span>
                             <span><i>&nbsp-&nbsp Catering school</i></span>
@@ -143,6 +146,7 @@
                                 <img src="res/ca.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
+                        <hr>
                         <div class="content middle aligned">
                             <span class="header cv-title">ContentArmor</span>
                             <br/>
@@ -169,6 +173,7 @@
                                      onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
+                        <hr>
                         <div class="content middle aligned">
                             <span class="title cv-title">Viaccess-Orca</span>
                             <br>
@@ -195,6 +200,7 @@
                                 <img src="res/genip.jpg" class="image tiny" onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
+                        <hr>
                         <div class="content middle aligned">
                             <span class="title cv-title">Gen-IP Solutions</span>
                             <br>
@@ -231,6 +237,7 @@
                             <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
+                    <hr>
                     <div class="content middle aligned">
                         <span class="title cv-title">Entity Component System engine based game</span>
                         <br>
