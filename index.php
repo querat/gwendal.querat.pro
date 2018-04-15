@@ -102,7 +102,8 @@
                     <div class="item middle">
                         <div class="ui tiny image">
                             <br>
-                            <img class="image" src="res/ste-therese.jpg" height="48px" onmouseover="$(this).transition('jiggle')">
+                            <img class="image" src="res/ste-therese.jpg" height="48px"
+                                 onmouseover="$(this).transition('jiggle')">
                         </div>
                         <div class="content" style="padding: 1rem;">
                             <span class="title cv-title">Sainte Thérèse High School</span>
@@ -249,7 +250,31 @@
             </div>
         </div>
     </div> <!-- !card -->
-
+    <div class="my-margin"></div>
+    <div class="ui card full-width">
+        <div class="content">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ui tiny image">
+                        <a href="https://github.com/querat/gwendal.querat.pro">
+                            <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                        </a>
+                    </div>
+                    <div class="content middle aligned">
+                        <span class="title cv-title">This website</span>
+                        <br>
+                        <span class="internship-subject-text">
+                            Made using SemanticUi and JQuery.
+                        </span>
+                        <br>
+                        <span>Running on a Debian VPS</span>
+                        <br>
+                        <span><i>HTML, CSS, JavaScript, PHP, SemanticUI</i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- !card -->
 
     <div class="ui container">
         <hr>
