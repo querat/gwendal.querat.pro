@@ -328,7 +328,9 @@
                         <span class="title cv-title">Website - Made for a DCU course</span>
                         <br>
                         <span class="internship-subject-text">
-                            This <a href="http://homebox.querat.pro/">simple website</a> was built without any framework.
+                            This
+                            <a href="http://homebox.querat.pro/" target="_blank">simple website</a>
+                            was built without any framework.
                         </span>
                         <br>
                         <span>
