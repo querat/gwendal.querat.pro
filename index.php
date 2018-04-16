@@ -147,6 +147,20 @@
         <?php include("table.php"); ?>
     </div>
 
+    <div class="ui container" style="margin-top: 32px">
+        <div class="ui card full-width">
+            <div class="content">
+                <h3>Others computing skills</h3>
+                <ul class="ui">
+                    <li>Used to Git</li>
+                    <li>GUI Development (wxPython)</li>
+                    <li>Network programming (TCP)</li>
+                    <li>Parallel computing (Threads and process) </li>
+                    <li>Familiarity with Make & CMake build systems</li>
+                </ul>
+            </div>
+        </div>
+    </div>
     <hr>
 
     <!-- Professional Experience -->
