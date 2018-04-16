@@ -17,25 +17,22 @@
 </head>
 <body>
 
-<div class="ui fixed inverted menu" style="background-color: #00cab7">
+<div class="ui fixed inverted menu" style="background-color: #00cab7;">
     <div class="ui container">
         <a href="#" class="header item">
-            <!--<img class="logo" src="res/images/logo.png"/>-->
             Gwendal QUÉRAT
         </a>
     </div>
 </div>
 
-<header class="ui container color2">
-    <div class="ui grid middle aligned color2 white-text">
-        <div class="column eight wide center aligned">
-            <h1 class="title">Gwendal QUERAT</h1>
-            <h3 class="title">Software Developer</h3>
-            <!--<div class="ui container left aligned">-->
-            <!--</div>-->
-        </div>
-        <div class="column eight wide>">
-            <img class="ui image circular left aligned" src="res/gwen.png"/>
+<header class="ui container color2 full-width" id="header-specific-hack">
+    <div class="ui items middle aligned color2 white-text">
+        <div class="ui item middle aligned">
+            <div class="ui content middle aligned" style="text-align: center">
+                <h1 class="title">Gwendal QUÉRAT</h1>
+                <img class="ui image circular centered" src="res/gwen.png"/>
+                <h3 class="title">Software Developer</h3>
+            </div>
         </div>
     </div>
 </header>
@@ -155,7 +152,7 @@
                     <li>Used to Git</li>
                     <li>GUI Development (wxPython)</li>
                     <li>Network programming (TCP)</li>
-                    <li>Parallel computing (Threads and process) </li>
+                    <li>Parallel computing (Threads and process)</li>
                     <li>Familiarity with Make & CMake build systems</li>
                 </ul>
             </div>
@@ -226,7 +223,8 @@
                     <div class="item">
                         <div class="ui tiny image">
                             <a href="https://www.gen-ip.fr/Accueil" target="_blank">
-                                <img src="res/genip.jpg" class="ui image tiny" onmouseover="$(this).transition('jiggle')">
+                                <img src="res/genip.jpg" class="ui image tiny"
+                                     onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
                         <hr>
@@ -264,12 +262,16 @@
                         <span class="title cv-title">Catering</span> (2006-2014)
                         <br>
                         <span class="">
-                            <br>Employment - Restaurant                 <span class="internship-subject-text">La Tratt'</span>, (Loudéac, France)
-                            <br>Employment - Hotel/Restaurant/SPA*****  <span class="internship-subject-text">L’Agapa</span>, (Perros-Guirec, France)
+                            <br>Employment - Restaurant                 <span
+                                    class="internship-subject-text">La Tratt'</span>, (Loudéac, France)
+                            <br>Employment - Hotel/Restaurant/SPA*****  <span
+                                    class="internship-subject-text">L’Agapa</span>, (Perros-Guirec, France)
                             <br>Internship - Hotel/Restaurant****       <span class="internship-subject-text">L’Auberge des Templiers</span>, (Boismorand, France)
-                            <br>Internship - Hotel/Restaurant****       <span class="internship-subject-text">L’Écrin</span> , (Plancoët, France)
+                            <br>Internship - Hotel/Restaurant****       <span
+                                    class="internship-subject-text">L’Écrin</span> , (Plancoët, France)
                             <br>Internship - Hotel/Restaurant****       <span class="internship-subject-text">Domaine de Rochevilaine</span>, Billiers (Morbihan)
-                            <br>Internship - Hotel/Restaurant***        <span class="internship-subject-text">Ar Milin’</span>, Châteaubourg (Ille-et-Vilaine)
+                            <br>Internship - Hotel/Restaurant***        <span
+                                    class="internship-subject-text">Ar Milin’</span>, Châteaubourg (Ille-et-Vilaine)
                             <br>Internship - Hotel/Restaurant**         <span class="internship-subject-text">Ibis, Quiberon</span> (Morbihan)
                             <br>Internship - Hotel/Restaurant           <span class="internship-subject-text">Castel j’Huly</span>, Châteaubourg (Ille-et-Vilaine)
                         </span>
@@ -425,10 +427,6 @@
             </p>
         </div>
     </div>
-
-<!--    <div class="ui container">-->
-<!--        <hr>-->
-<!--    </div>-->
 </div>
 <div style="margin-bottom: 128px"></div>
 

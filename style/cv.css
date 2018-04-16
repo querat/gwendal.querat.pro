@@ -58,3 +58,16 @@ hr {
     font-size:          1.4rem;
     text-align:         justify;
 }
+
+.my-separator {
+    margin: 0 0 10vw 10vw;
+}
+
+#header-specific-hack {
+    /*
+        Sadly, I need to override the !important margin defined by Semantic ui
+        for mobile devices.
+     */
+    margin-left:    0 !important;
+    margin-right:   0 !important;
+}
