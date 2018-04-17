@@ -28,7 +28,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
         $starsPrinted++;
     }
     echo "
-        <tr/>
+        </tr>
     ";
 }
 
