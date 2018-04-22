@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Gwendal</title>
+    <title>Gwendal QUÉRAT</title>
     <meta charset="UTF-8"/>
     <meta name=viewport content="width=device-width, maximal-scale=1, initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
