@@ -70,7 +70,7 @@
                         <hr>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Dublin City University</div>
-                            <span><i>&nbsp-&nbsp;Study Abroad Program (one year)</i></span>
+                            <span><i>&nbsp;-&nbsp;Study Abroad Program (one year)</i></span>
                             <br/>
                             <i>Dublin, Ireland</i>
                             <br/>
