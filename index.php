@@ -7,10 +7,11 @@
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="stylesheet" href="style/semantic.min.css">
     <link rel="stylesheet" href="style/cv.css">
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/semantic.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/semantic.min.js"></script>
     <!-- Needed by stars-rating table -->
-    <script type="text/javascript">$(document).ready(function () {
+    <script>
+        $(document).ready(function () {
             $(".rating").rating();
         });
     </script>
