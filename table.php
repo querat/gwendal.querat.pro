@@ -9,7 +9,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
     <tr style='border: none'>
         <td>
             <h4 class=\"ui header\">
-                <img src=\"$pathToIcon\" class=\"ui tiny rounded image\" onmouseover='$(this).transition(\"jiggle\");' >
+                <img alt=\"language\" src=\"$pathToIcon\" class=\"ui tiny rounded image\" onmouseover='$(this).transition(\"jiggle\");' >
                     $nameOfLanguage
             </h4>
         </td>    
@@ -22,7 +22,7 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
 
         echo "
         <td class=\"td-noborder\">
-            <img class=\"my-star image tiny\" src=\"$starFilePath\">
+            <img alt=\"star\" class=\"my-star image tiny\" src=\"$starFilePath\">
         </td>
         ";
         $starsPrinted++;

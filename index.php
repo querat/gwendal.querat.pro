@@ -30,7 +30,7 @@
         <div class="ui item middle aligned">
             <div class="ui content middle aligned" style="text-align: center">
                 <h1 class="title">Gwendal QUÉRAT</h1>
-                <img class="ui image circular centered" src="res/gwen.png"/>
+                <img alt="photo" class="ui image circular centered" src="res/gwen.png"/>
                 <h3 class="title">Software Developer</h3>
             </div>
         </div>
@@ -65,7 +65,7 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img src="res/dcu.jpeg" class="image tiny" onmouseover="$(this).transition('jiggle');">
+                            <img alt="dcu" src="res/dcu.jpeg" class="image tiny" onmouseover="$(this).transition('jiggle');">
                         </div>
                         <hr>
                         <div class="content" style="padding: 1rem;">
@@ -90,7 +90,7 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img src="res/epitech.png" height="48px" onmouseover="$(this).transition('jiggle');">
+                            <img alt="dcu" src="res/epitech.png" height="48px" onmouseover="$(this).transition('jiggle');">
                         </div>
                         <hr>
                         <div class="content" style="padding: 1rem;">
@@ -116,7 +116,7 @@
                     <div class="item middle">
                         <div class="ui tiny image">
                             <br>
-                            <img class="image" src="res/ste-therese.jpg" height="48px"
+                            <img alt="catering" class="image" src="res/ste-therese.jpg" height="48px"
                                  onmouseover="$(this).transition('jiggle')">
                         </div>
                         <hr>
@@ -169,7 +169,7 @@
                     <div class="item">
                         <div class="ui tiny image" onmouseover="this.transition('jiggle');">
                             <a href="http://contentarmor.net" target="_blank">
-                                <img src="res/ca.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                                <img alt="contentarmor" src="res/ca.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
                         <hr>
@@ -195,7 +195,7 @@
                     <div class="item">
                         <div class="ui tiny image">
                             <a href="https://www.viaccess-orca.com/" target="_blank">
-                                <img src="res/Viaccess-Orca.jpg" class="image tiny"
+                                <img alt="Viaccess" src="res/Viaccess-Orca.jpg" class="image tiny"
                                      onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
@@ -223,7 +223,7 @@
                     <div class="item">
                         <div class="ui tiny image">
                             <a href="https://www.gen-ip.fr/Accueil" target="_blank">
-                                <img src="res/genip.jpg" class="ui image tiny"
+                                <img alt="genip" src="res/genip.jpg" class="ui image tiny"
                                      onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
@@ -254,7 +254,7 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a href="#">
-                            <img src="res/fork.png" class="ui image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="catering" src="res/fork.png" class="ui image tiny" onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -291,7 +291,7 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a>
-                            <img src="res/nasm.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="nasm" src="res/nasm.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -320,7 +320,7 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a href="https://github.com/querat/ca115">
-                            <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="ca115 github" src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -353,7 +353,7 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a href="https://github.com/querat/ecsGame">
-                            <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="ecs github" src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -383,7 +383,7 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a href="https://github.com/querat/gwendal.querat.pro">
-                            <img src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="site github" src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -433,8 +433,8 @@
 <div style="margin-bottom: 128px"></div>
 
 <div class="ui container" style="min-width: 100vw">
-    <img src="res/serval.png" class="ui image small floated right aligned">
-    <img src="res/construction.png" class="ui image small floated aligned right">
+    <img alt="cats are cool" src="res/serval.png" class="ui image small floated right aligned">
+    <img alt="kitty" src="res/construction.png" class="ui image small floated aligned right">
 </div>
 </body>
 </html>
