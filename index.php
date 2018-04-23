@@ -70,7 +70,7 @@
                         <hr>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Dublin City University</div>
-                            <span><i>&nbsp-&nbspStudy Abroad Program (one year)</i></span>
+                            <span><i>&nbsp-&nbsp;Study Abroad Program (one year)</i></span>
                             <br/>
                             <i>Dublin, Ireland</i>
                             <br/>
@@ -95,7 +95,7 @@
                         <hr>
                         <div class="content" style="padding: 1rem;">
                             <div class="header">Epitech</div>
-                            <span><i>&nbsp-&nbspParis Graduate School of Digital Innovation</i></span>
+                            <span><i>&nbsp;-&nbsp;Paris Graduate School of Digital Innovation</i></span>
                             <br/>
                             <i>Paris, France</i>
                             <br/>
@@ -122,7 +122,7 @@
                         <hr>
                         <div class="content" style="padding: 1rem;">
                             <span class="title cv-title">Sainte Thérèse High School</span>
-                            <span><i>&nbsp-&nbsp Catering school</i></span>
+                            <span><i>&nbsp;-&nbsp; Catering school</i></span>
                             <br/>
                             <span><i>La Guerche De Bretagne, France</i></span>
                             <br/>
