@@ -5,6 +5,7 @@
     <meta charset="UTF-8"/>
     <meta name=viewport content="width=device-width, maximal-scale=1, initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
+    <meta lang="en">
     <link rel="stylesheet" href="style/semantic.min.css">
     <link rel="stylesheet" href="style/cv.css">
     <script src="js/jquery.min.js"></script>
