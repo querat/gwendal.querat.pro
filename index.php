@@ -90,7 +90,7 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img alt="dcu" src="res/epitech.png" height="48px" onmouseover="$(this).transition('jiggle');">
+                            <img alt="dcu" src="res/epitech.png" height="48" onmouseover="$(this).transition('jiggle');">
                         </div>
                         <hr>
                         <div class="content" style="padding: 1rem;">
@@ -116,7 +116,7 @@
                     <div class="item middle">
                         <div class="ui tiny image">
                             <br>
-                            <img alt="catering" class="image" src="res/ste-therese.jpg" height="48px"
+                            <img alt="catering" class="image" src="res/ste-therese.jpg" height="48"
                                  onmouseover="$(this).transition('jiggle')">
                         </div>
                         <hr>
