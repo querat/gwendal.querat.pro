@@ -16,6 +16,20 @@
             $(".rating").rating();
         });
     </script>
+    <!-- SEO-->
+    <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type":           "Person",
+      "familyName":      "Quérat",
+      "givenName":       "Gwendal",
+      "name":            "Gwendal QUÉRAT",
+      "jobTitle":        "Software Developer",
+      "gender":          "male",
+      "nationality":     "french",
+      "url":             "http://gwendal.querat.pro"
+      }
+</script>
 </head>
 <body>
 
