@@ -4,6 +4,7 @@
     <title>Gwendal QUÉRAT</title>
     <meta charset="UTF-8"/>
     <meta name=viewport content="width=device-width, maximal-scale=1, initial-scale=1">
+    <meta name="description" content="Personal website of Gwendal QUERAT">
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="stylesheet" href="style/semantic.min.css">
     <link rel="stylesheet" href="style/cv.css">
