@@ -196,6 +196,32 @@
                         <div class="content middle aligned">
                             <span class="header cv-title">ContentArmor</span>
                             <br/>
+                            <span class="internship-subject-text">Implementation of an online watermark detection service</span>
+                            <br>
+                            <span><i>Rennes, France</i></span>
+                            <br/>
+                            Part-Time contract 3 days a week, September-February 2018-2019
+                            <br/>
+                            <span>Python, Flask (REST), SqlAlchemy</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="my-margin"></div>
+        <div class="ui card full-width">
+            <div class="content">
+                <div class="ui items">
+                    <div class="item">
+                        <div class="ui tiny image" onmouseover="this.transition('jiggle');">
+                            <a href="http://contentarmor.net" target="_blank">
+                                <img alt="contentarmor" src="res/ca.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            </a>
+                        </div>
+                        <hr>
+                        <div class="content middle aligned">
+                            <span class="header cv-title">ContentArmor</span>
+                            <br/>
                             <span class="internship-subject-text">Visualization Tool For a Video Watermarking System</span>
                             <br>
                             <span><i>Rennes, France</i></span>
