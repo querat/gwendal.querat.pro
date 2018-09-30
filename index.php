@@ -27,7 +27,7 @@
       "jobTitle":        "Software Developer",
       "gender":          "male",
       "nationality":     "french",
-      "url":             "http://gwendal.querat.pro"
+      "url":             "https://gwendal.querat.pro"
       }
 </script>
 </head>
@@ -57,9 +57,13 @@
     <h1 id="about" class="ui header centered">About</h1>
     <div class="paragraph-text">
         <p>
-            I am a 27 years developer currently studying Computer Science for one year at Dublin City University.
-            This year is part of my five years long <i>Epitech</i> studies, ending in 2019. During my studies,
-            I had the opportunity to work as an intern in three different enterprises, which gave me flexibility and
+            I am a 27 years developer currently studying Computer Science at
+            <a href="http://www.epitech.eu/">Epitech</a>
+            for my fifth and last year.
+            I also have been studying abroad at <a href="https://www.dcu.ie/">Dublin City University</a> for a year (2017-2018).
+        </p>
+        <p>
+            During my studies, I had the opportunity to work as an intern in three different enterprises, which gave me flexibility and
             professional experience. In my past, I used to work as a pastry cook ;
             This was before I decided to make a job of my other passion, Software Development.
             I still love to cook delicious meals and desserts for my friends, my family and my coworkers.
