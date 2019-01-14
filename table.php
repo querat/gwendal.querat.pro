@@ -40,9 +40,8 @@ function makeStarredTr($pathToIcon, $nameOfLanguage, $nbStars)
     makeStarredTr("res/sudo.png", "Linux & Sysadmin", 5);
     makeStarredTr("res/cpp.png", "C/C++", 4);
     makeStarredTr("res/py.png", "Python", 4);
-    makeStarredTr("res/webStack.png", "Frontend", 3);
-    makeStarredTr("res/thatOneLanguage.jpg", "Java", 2);
-    makeStarredTr("res/sql.png", "MySQL", 2);
+    makeStarredTr("res/reactredux.png", "React+Redux (Javascript Frontend)", 4);
+    makeStarredTr("res/sql.png", "MySQL", 3);
     makeStarredTr("res/uk.jpg", "English", 4);
     ?>
     </tbody>

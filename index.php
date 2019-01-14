@@ -29,7 +29,8 @@
       "nationality":     "french",
       "url":             "https://gwendal.querat.pro"
       }
-</script>
+
+    </script>
 </head>
 <body>
 
@@ -57,13 +58,15 @@
     <h1 id="about" class="ui header centered">About</h1>
     <div class="paragraph-text">
         <p>
-            I am a 27 years developer currently studying Computer Science at
+            I am a 28 years old developer currently studying Computer Science at
             <a href="http://www.epitech.eu/">Epitech</a>
             for my fifth and last year.
-            I also have been studying abroad at <a href="https://www.dcu.ie/">Dublin City University</a> for a year (2017-2018).
+            I also have been studying abroad at <a href="https://www.dcu.ie/">Dublin City University</a> for a year
+            (2017-2018).
         </p>
         <p>
-            During my studies, I had the opportunity to work as an intern in three different enterprises, which gave me flexibility and
+            During my studies, I had the opportunity to work as an intern in three different enterprises, which gave me
+            flexibility and
             professional experience. In my past, I used to work as a pastry cook ;
             This was before I decided to make a job of my other passion, Software Development.
             I still love to cook delicious meals and desserts for my friends, my family and my coworkers.
@@ -71,7 +74,7 @@
         <p>
             I am most experienced in C, C++, Python and Linux environments, but my professional background and
             experience allow me to quickly adapt to new technologies. I can also make use of web technologies,
-            from frontend (HTML, SemanticUI) to backend (Server System Administration, DNS, Nginx).
+            from frontend (ReactJs, Redux, bootstrap...) to backend (Server System Administration, DNS, Nginx, REST APIs).
         </p>
 
     </div>
@@ -85,7 +88,8 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img alt="dcu" src="res/dcu.jpeg" class="image tiny" onmouseover="$(this).transition('jiggle');">
+                            <img alt="dcu" src="res/dcu.jpeg" class="image tiny"
+                                 onmouseover="$(this).transition('jiggle');">
                         </div>
                         <hr>
                         <div class="content" style="padding: 1rem;">
@@ -110,7 +114,8 @@
                 <div class="ui items">
                     <div class="item">
                         <div class="ui tiny image">
-                            <img alt="dcu" src="res/epitech.png" height="48" onmouseover="$(this).transition('jiggle');">
+                            <img alt="dcu" src="res/epitech.png" height="48"
+                                 onmouseover="$(this).transition('jiggle');">
                         </div>
                         <hr>
                         <div class="content" style="padding: 1rem;">
@@ -170,10 +175,14 @@
                 <h3>Others computing skills</h3>
                 <ul class="ui">
                     <li>Used to Git</li>
+                    <li>REST APIs (Flask backend environment, with sqlalchemy and marshmallow)</li>
+                    <li>GraphQL APIs (Django+Graphene environment)</li>
                     <li>GUI Development (wxPython)</li>
                     <li>Network programming (TCP)</li>
-                    <li>Parallel computing (Threads and process)</li>
+                    <li>Asynchronous JavaScript development</li>
+                    <li>Parallel computing (Threads and processes)</li>
                     <li>Familiarity with Make & CMake build systems</li>
+                    <li>JetBrains IDEs (PyCharm, WebStorm, CLion)</li>
                 </ul>
             </div>
         </div>
@@ -189,7 +198,8 @@
                     <div class="item">
                         <div class="ui tiny image" onmouseover="this.transition('jiggle');">
                             <a href="http://contentarmor.net" target="_blank">
-                                <img alt="contentarmor" src="res/ca.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                                <img alt="contentarmor" src="res/ca.png" class="image tiny"
+                                     onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
                         <hr>
@@ -202,7 +212,7 @@
                             <br/>
                             Part-Time contract 3 days a week, September-February 2018-2019
                             <br/>
-                            <span>Python, Flask (REST), SqlAlchemy</span>
+                            <span>Python, Flask (REST), SqlAlchemy on the backend. ReactJS, Redux & Bootstrap on the frontend</span>
                         </div>
                     </div>
                 </div>
@@ -215,7 +225,8 @@
                     <div class="item">
                         <div class="ui tiny image" onmouseover="this.transition('jiggle');">
                             <a href="http://contentarmor.net" target="_blank">
-                                <img alt="contentarmor" src="res/ca.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                                <img alt="contentarmor" src="res/ca.png" class="image tiny"
+                                     onmouseover="$(this).transition('jiggle')">
                             </a>
                         </div>
                         <hr>
@@ -300,7 +311,8 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a href="#">
-                            <img alt="catering" src="res/fork.png" class="ui image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="catering" src="res/fork.png" class="ui image tiny"
+                                 onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -337,7 +349,8 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a>
-                            <img alt="nasm" src="res/nasm.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="nasm" src="res/nasm.png" class="image tiny"
+                                 onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -365,8 +378,40 @@
             <div class="ui items">
                 <div class="item">
                     <div class="ui tiny image">
+                        <a href="https://woodbox.io:1234/graphql?query=query%20%7B%0A%20%20getUser(userName%3A%22test%22%2C%20password%3A%22test%22)%20%7B%0A%20%20%20%20id%0A%20%20%20%20name%0A%20%20%20%20email%0A%20%20%20%20boxes%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%20%20modules%7B%0A%20%20%20%20%20%20%20%20type%0A%20%20%20%20%20%20%20%20location%0A%20%20%20%20%20%20%20%20mac%0A%09%09%09%09samples%20%7B%0A%20%20%20%20%20%20%20%20%20%20id%0A%20%20%20%20%20%20%20%20%09payload%0A%20%20%20%20%20%20%20%20%20%20date%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">
+                            <img alt="nasm" src="res/graph.png" class="image tiny"
+                                 onmouseover="$(this).transition('jiggle')">
+                        </a>
+                    </div>
+                    <hr>
+                    <div class="content middle aligned">
+                        <span class="title cv-title">Graphql API</span>
+                        <br>
+                        <span class="internship-subject-text">
+                            Django/graphene based GraphQL API.
+                        </span>
+                        <br>
+                        <span>
+                            Made as a part of my group's end of studies project. Click on the icon to try it out on my other website ! <br/>
+                            Our project is about having small, wireless boxes (modules) to harvest environmental samples from your indoors. <br/>
+                            Those samples are then monitored, and a notification is sent to your phone if a problem is detected.
+                        </span>
+                        <br>
+                        <span><i>Python, Django, Graphene, Graphql, GraphiQL (interactive interface to build queries)</i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- !card -->
+    <div class="my-margin"></div>
+    <div class="ui card full-width">
+        <div class="content">
+            <div class="ui items">
+                <div class="item">
+                    <div class="ui tiny image">
                         <a href="https://github.com/querat/ca115">
-                            <img alt="ca115 github" src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="ca115 github" src="res/github.png" class="image tiny"
+                                 onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -377,10 +422,6 @@
                             This
                             <a href="http://homebox.querat.pro/" target="_blank">simple website</a>
                             was built without any framework.
-                        </span>
-                        <br>
-                        <span>
-                            It is sadly not responsive, unlike my own website.
                         </span>
                         <br>
                         <span><i>HTML, CSS, JavaScript</i></span>
@@ -399,7 +440,8 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a href="https://github.com/querat/ecsGame">
-                            <img alt="ecs github" src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="ecs github" src="res/github.png" class="image tiny"
+                                 onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
@@ -407,16 +449,17 @@
                         <span class="title cv-title">Entity Component System engine based game</span>
                         <br>
                         <span class="internship-subject-text">
-                            I am learning to use <a href="https://github.com/skypjack/entt">Entt</a>
-                            with multiple graphic libraries (using interfaces for abstraction).
+                            I have been learning to use CMake and <a href="https://github.com/skypjack/entt">Entt</a>.
                         </span>
                         <br>
                         <span>
                             ECS engines are data oriented, reduce the coupling of components
-                            and are able to run very fast by reducing cache misses.
+                            and are able to run very fast by reducing cache misses. <br/>
+                            This project was mostly a playground to learn CMake, by making it git-clone and build the libraries I needed. <br/>
+                            Sadly both SFML and Entt have since been updated, and the project can't be built until I fix the problems coming from these updates.
                         </span>
                         <br>
-                        <span><i>C++, CMake, SFML, SDL to come</i></span>
+                        <span><i>C++, CMake, SFML</i></span>
                     </div>
                 </div>
             </div>
@@ -429,7 +472,8 @@
                 <div class="item">
                     <div class="ui tiny image">
                         <a href="https://github.com/querat/gwendal.querat.pro">
-                            <img alt="site github" src="res/github.png" class="image tiny" onmouseover="$(this).transition('jiggle')">
+                            <img alt="site github" src="res/github.png" class="image tiny"
+                                 onmouseover="$(this).transition('jiggle')">
                         </a>
                     </div>
                     <hr>
